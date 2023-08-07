@@ -44,5 +44,16 @@ export const competitiveProgrammingEntities = [
         ['Water Container'],
         [],
         [],
+        true),
+    createData(
+        3,
+        '1679. Max Number of K-Sum Pairs',
+        'https://leetcode.com/problems/max-number-of-k-sum-pairs/',
+        'Medium',
+        ['Array', "HashMap"],
+        ['NA'],
+        ['Pairs of Element'],
+        [],
+        [],
         true)
 ];
