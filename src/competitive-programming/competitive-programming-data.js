@@ -85,4 +85,40 @@ export const competitiveProgrammingEntities = [
     [],
     true
   ),
+  createData(
+    6,
+    "1466. Reorder Routes to Make All Paths Lead to the City Zero",
+    "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/",
+    "Medium",
+    ["HashMap", "Adjacent List"],
+    ["Mirror graph(fake node case)"],
+    [],
+    [],
+    [],
+    true
+  ),
+  createData(
+    7,
+    "872. Leaf-Similar Trees",
+    "https://leetcode.com/problems/leaf-similar-trees/",
+    "Easy",
+    ["HashMap", "Adjacent List"],
+    ["Mirror graph(fake node case)"],
+    [],
+    [],
+    [],
+    true
+  ),
+  createData(
+    8,
+    "2300. Successful Pairs of Spells and Potions",
+    "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
+    "Easy",
+    ["Loop"],
+    ["Binary Search", "Sort"],
+    [],
+    [],
+    [],
+    true
+  ),
 ];
